@@ -4775,6 +4775,7 @@ https://cdn2.unrealengine.com/9zpxwgl2r4lqzi8p-d5f426c70d0a.dat
 https://cdn2.unrealengine.com/Academia/EMEA/INCAS-125x135-2089763310.png
 https://cdn2.unrealengine.com/Academia/EMEA/OBJ_3DLOGO-115x125-319230332.png
 https://cdn2.unrealengine.com/Battle Breakers/news/battle-breakers-x-br/EN_BB_Social_HeroHighlight_Cloudpuff_1920x1080-1920x1080-7f27e611a3df82202da72b01063f3c4de9769b7f.jpg
+https://cdn2.unrealengine.com/BrandingMedia/Documents/Stand-alone-Disclaimers-and-Limitation-of-Liability-1565796293.docx
 https://cdn2.unrealengine.com/Common+Assets/Legal+Icons/ESRB_FN-369x217-3386d50bb6a48893e81914fb8e44834ef4458c63.png
 https://cdn2.unrealengine.com/Common+Assets/Legal+Icons/australian-560x214-a52d81ac96e3836166ef9d05b456d6bdbafcf82c.png
 https://cdn2.unrealengine.com/Common+Assets/Legal+Icons/korean-728x152-8827a9ccb2fbe2b6ca0b51e97b5d7fe3d0db5185.png
@@ -4850,6 +4851,9 @@ https://cdn2.unrealengine.com/Fortnite/blog/1-7-1-patch-notes/FortniteBattleRoya
 https://cdn2.unrealengine.com/Fortnite/blog/FortniteBlockbuster/BR04_News_Featured_Blockbuster-Rules_v2_1200x675_1530897134500-1200x675-f420fa7c8764f777216b82643e5dab52c3352a5f.jpg
 https://cdn2.unrealengine.com/Fortnite/blog/FortniteBlockbuster/BR04_News_Featured_Blockbuster-Rules_v3-1920x1080-747119df93c9a839a04860dbd88230117cf502ff.jpg
 https://cdn2.unrealengine.com/Fortnite/blog/FortniteBlockbuster/BR04_News_Thumbnail_Blockbuster-Rules-576x576-0c5be611c93e6a0a97d1d8bd042882ff49613469.jpg
+https://cdn2.unrealengine.com/Fortnite/blog/alpha-player-of-the-week---tenma/FORT_FortOverhead-1920x1080-02d8182325453bae0e6b0673f8cef3db9b697a64.png
+https://cdn2.unrealengine.com/Fortnite/blog/alpha-player-of-the-week---tenma/FORT_TrapHallway_1920x752_1500318217178-1920x752-a373022f28928b771c5420f97d8fd6d8fca1a7fa.png
+https://cdn2.unrealengine.com/Fortnite/blog/alpha-player-of-the-week---tenma/unnamed-250x250-73467c5f8e984baa7f19fbe38d29641ed3f94a8a.png
 https://cdn2.unrealengine.com/Fortnite/blog/alpha-player-of-the-week-haysleyez/SoldierInfographic-600x600-e4f4efd74cf1cd19dd0d0f66b434a0985ab15cfc.jpg
 https://cdn2.unrealengine.com/Fortnite/blog/alpha-player-of-the-week-haysleyez/Soldier_Screenshot-1920x1080-0e22b51f2412ff6e1d495531872d363d6ca10c46.png
 https://cdn2.unrealengine.com/Fortnite/blog/announcing-fortnite-battle-royale/FortniteBattleRoyaleKeyArt_Header-1903x480-d1cf877134a574fa5d6004db7bbcca7f01df66d6.png
@@ -4953,6 +4957,8 @@ https://cdn2.unrealengine.com/Fortnite/blog/the-block-and-featured-hub-changes/0
 https://cdn2.unrealengine.com/Fortnite/blog/the-block-and-featured-hub-changes/09BR_Evergreens_White_NewsThumbnail-576x576-2b2f48c6ab86d29bd2f9597ed7811899c0b776a3.jpg
 https://cdn2.unrealengine.com/Fortnite/blog/the-block-and-featured-hub-changes/09BR_Evergreens_White_Social-1920x1080-7d9ad9a87802cc6df69134286c54b0f48f71baad.jpg
 https://cdn2.unrealengine.com/Fortnite/blog/the-early-access-season-has-begun/Fortnite_Social_Outlander_1920x1080-1920x1080-90dad203638c1e7c7bddb23bb1d23dfe82e96372.jpg
+https://cdn2.unrealengine.com/Fortnite/blog/the-founders-launch-event-is-here/2017-07-18-10_25_00-Fortnite-(64-bit,-PCD3D_SM5)-324x601-888fcfa5156416d02e267eb27d3e39c23b44b0cf.png
+https://cdn2.unrealengine.com/Fortnite/blog/the-founders-launch-event-is-here/OutlanderBear_Header-1903x480-757d6a8b70de914c3a583dff1b963ec45e27e4cf.jpg
 https://cdn2.unrealengine.com/Fortnite/blog/the-search-for-survivors/FortniteMinigun_Blog-1903x480-dd1a16951d27cd2d44cfc5811aa6d90315f1b2a3.jpg
 https://cdn2.unrealengine.com/Fortnite/blog/v-2-2-0-patch-notes/BattlePass_x10_Bonus-900x900-f95fdbdb6625eac2c2162c041a0b32424fdce478.jpg
 https://cdn2.unrealengine.com/Fortnite/blog/v-2-2-0-patch-notes/NewsArticle_Header-1920x400-ae8727d92f47130d410911856db2dbe4b368e610.jpg
@@ -6231,6 +6237,7 @@ https://cdn2.unrealengine.com/Resources/files/GDC2014_Next_Generation_Mobile_Ren
 https://cdn2.unrealengine.com/Resources/files/GDC2016_Senua-824839771.pptx
 https://cdn2.unrealengine.com/Showcase/Rev60_04-2048x1536-1057873639.png
 https://cdn2.unrealengine.com/Unreal+Engine/Why-Real-Time-Technology-is-the-Future-of-Film-and-Television-Production-ecc14547ab8a340d4c00e2f931adfcf3a201478d.pdf
+https://cdn2.unrealengine.com/Unreal+Engine/blog/create-photoreal-car-windows-in-unreal-engine/Realistic,-high-quality-windows-in-Unreal-Engine-V2.1-555149d5a4381bec41d846d911b8499f4ce5e1e9.pdf
 https://cdn2.unrealengine.com/Unreal+Engine/blogAssets/2018/01+January/180109+ARrived/ARrived8-1000x749-94e36b1103b17c7057eae9f7b8c88ddde0b92808.png
 https://cdn2.unrealengine.com/Unreal+Engine/resources/Virtual-Production-white-paper-62e08e13d5ff8b76f17286b33297e741bdca5db5.pdf
 https://cdn2.unrealengine.com/Unreal+Engine/vpfieldguide/VP-Field-Guide-V1.2.02-5d28ccec9909ff626e42c619bcbe8ed2bf83138d.pdf
@@ -10668,6 +10675,7 @@ https://cdn2.unrealengine.com/geraltofrivia-harvestingtool-witchers--steel-sword
 https://cdn2.unrealengine.com/geraltofrivia-loading-screen-320x242-b7a4b51d59de.png
 https://cdn2.unrealengine.com/gethimback-35c9e3494127.lad
 https://cdn2.unrealengine.com/getlow-911ed453d49c.lad
+https://cdn2.unrealengine.com/getting-started-guide-for-secondary-educators-v02-208d9743182c.pdf
 https://cdn2.unrealengine.com/gettingstarted-465x344-a10fc39b4df8.png
 https://cdn2.unrealengine.com/gghgwyjzvsf0qipg-5beb38454c60.dat
 https://cdn2.unrealengine.com/ghnegdfj5peejtr3-082bd24191f7.dat
@@ -13051,6 +13059,7 @@ https://cdn2.unrealengine.com/unlock-battle-pass-agent-jones-outfit-da0eef0ddf28
 https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-header-1920x1080-2e96869442d6.jpg
 https://cdn2.unrealengine.com/unreal-engine-hair-and-fur-whitepaper-zhcn-73d68a66a2a5.pdf
 https://cdn2.unrealengine.com/unreal-engine-stream-creative-tools-3719x2092-a76d188f6fb1.jpg
+https://cdn2.unrealengine.com/unreal-foundations-syllabus-320fd2e1d012.pdf
 https://cdn2.unrealengine.com/unsainted-0607abdefd7d.lad
 https://cdn2.unrealengine.com/unslw6fiprz5630h-512x512-c64246ef7b46.jpg
 https://cdn2.unrealengine.com/unslw6fiprz5630h-blur-512x615-d8001ac04b42.jpg
